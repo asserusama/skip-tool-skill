@@ -14,7 +14,7 @@ A Cursor Agent Skill for [Skip](https://skip.dev): dual-platform iOS and Android
 **Personal (all projects):** Copy this folder to `~/.cursor/skills/skip-tool/`
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/skip-tool-skill.git ~/.cursor/skills/skip-tool
+git clone https://github.com/asserusama/skip-tool-skill.git ~/.cursor/skills/skip-tool
 ```
 
 **Project:** Copy into your repo as `.cursor/skills/skip-tool/`
