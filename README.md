@@ -9,7 +9,35 @@ A Cursor Agent Skill for [Skip](https://skip.dev): dual-platform iOS and Android
 - References for CLI, modes, compiler directives, building, troubleshooting, porting
 - SkipUI, SkipFoundation, and component reference (all content local; no web dependency)
 
-## Install (Cursor)
+## Install
+
+### Option A: skills.sh (recommended)
+
+```bash
+npx skills add https://github.com/asserusama/skip-tool-skill --skill skip-tool
+```
+
+Then use the skill in your AI agent, for example: *Use the Skip tool skill and help me set up a new Skip project* or *Use the Skip tool skill and fix this build error*.
+
+More info: [skills.sh](https://skills.sh).
+
+### Option B: Claude Code plugin
+
+**Personal use in Claude Code:**
+
+Add the marketplace:
+
+```
+/plugin marketplace add asserusama/skip-tool-skill
+```
+
+Install the skill:
+
+```
+/plugin install skip-tool@skip-tool-skill
+```
+
+### Option C: Cursor (git clone)
 
 **Personal (all projects):** Copy this folder to `~/.cursor/skills/skip-tool/`
 
