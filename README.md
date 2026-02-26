@@ -1,6 +1,6 @@
 # Skip Tool Skill
 
-A Cursor Agent Skill for [Skip](https://skip.dev): dual-platform iOS and Android development with Swift and SwiftUI.
+Agent Skill for [Skip](https://skip.dev): dual-platform iOS and Android development with Swift and SwiftUI.
 
 ## What it does
 
