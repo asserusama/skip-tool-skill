@@ -1,6 +1,6 @@
 ---
 name: skip-tool
-description: Guides development with Skip: dual-platform iOS/Android apps and libraries using Swift and SwiftUI. Use when working on Skip projects, Swift-to-Android builds, skip CLI, Skip Fuse/Lite, SwiftUI-to-Compose, compiler directives (#if os(Android), #if SKIP), or when the user mentions Skip, skip.dev, or skip create/verify/build.
+description: "Guides development with Skip: dual-platform iOS/Android apps and libraries using Swift and SwiftUI. Use when working on Skip projects, Swift-to-Android builds, skip CLI, Skip Fuse/Lite, SwiftUI-to-Compose, compiler directives (#if os(Android), #if SKIP), or when the user mentions Skip, skip.dev, or skip create/verify/build."
 ---
 
 # Skip Tool Skill
